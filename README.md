@@ -1,7 +1,10 @@
 # KAMI-ESHI v0.1.0
-
 KAMI ... God  
 ESHI ... Painter
+
+![](https://dl.dropboxusercontent.com/u/47978121/hruhi.png)  
+(Original source: http://news.ameba.jp/20140605-495/)  
+(C) Nagaru Tanigawa and Ito Noizi
 
 ## Movies
 * https://www.youtube.com/watch?v=4uknilYjw28
