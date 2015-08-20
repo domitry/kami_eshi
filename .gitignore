@@ -1,0 +1,10 @@
+*~
+*.opensdf
+*.sdf
+*.suo
+Release/
+Debug/
+Automspaint/Debug/
+Automspaint/Release/
+mspaintdll/Debug/
+mspaintdll/Release/
