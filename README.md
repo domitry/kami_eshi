@@ -12,6 +12,7 @@ ESHI ... Painter
 * mspaint.exe bundled with Windows XP
 
 ## Usage
+Download binaries from [here](https://dl.dropboxusercontent.com/u/47978121/kami_eshi.zip) or build them with your hands.\\
 Excute Automspaint.exe and input following information:
 
 * Input file path (path to *.png, *.jpg, *.bmp, *.ppm, ...)
