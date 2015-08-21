@@ -3,12 +3,12 @@
 #define SetDrawColor 0x0100C255
 
 void change_color(unsigned int color){
-	__asm{
-		pushad;
-		push color;
-		mov eax, SetDrawColor;
-		call eax;
-		popad;
-	}
-	return;
+    __asm{
+        pushad;
+        push color;
+        mov eax, SetDrawColor;
+        call eax;
+        popad;
+    }
+    return;
 }
